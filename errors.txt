@@ -1,5 +1,5 @@
-Traceback (most recent call last):
-  File "/home/vboxuser/Labs/2Lb.py", line 5, in <module>
-    A=int(input("Write A: "))
-      ^^^^^^^^^^^^^^^^^^^^^^^
-ValueError: invalid literal for int() with base 10: 'gf'
+6.0
+1.0
+1.8708286933869707
+1.5275252316519468
+0.6324555320336759

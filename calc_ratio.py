@@ -4,7 +4,7 @@ import sys
 A=int(sys.stdin.readline())
 B=random.randint(-10,10)
 if B==0:
-    print("Error, B=0")
+    print(0)
 else:
     C=A/B
     print (C)
